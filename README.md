@@ -20,7 +20,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=oevictor&theme=default&no-frame=true&no-bg=true&margin-w=4)
 
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<!--[](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=oevictor&limit=5&theme=dark&combine_all_yearly_contributions=true)
