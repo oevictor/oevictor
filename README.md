@@ -1,7 +1,7 @@
 # 💫 About Me:
-🎓 Estudante de Física na Universidade Federal de Minas Gerais (UFMG)<br>💻 Apaixonado por programação e tecnologia<br>🔗 Conecte-se comigo no LinkedIn
+🎓 Físico formado  na Universidade Federal de Minas Gerais (UFMG)<br>💻 Apaixonado por programação e tecnologia<br>🔗 Conecte-se comigo no LinkedIn
 
-🎓 Physics student at the Federal University of Minas Gerais (UFMG)  
+🎓 Physicist from the Federal University of Minas Gerais (UFMG)  
 💻 Passionate about programming and technology  
 🔗 Connect with me on LinkedIn
 
